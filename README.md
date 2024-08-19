@@ -7,9 +7,9 @@ Fun test to put 2 Local LLMs into discussions with each other.
 
 - Run the **start-script.bat** to install the env and librairies
 
-[=**Be careful here we use CUDA 11.8**=]
+- [=**Be careful here we use CUDA 11.8**=]
 
-[=**Be careful to have installed Microsoft C++ build tools on your computer**=]
+- [=**Be careful to have installed Microsoft C++ build tools on your computer**=]
 
 - Install Ollama **https://ollama.com/download**
 
